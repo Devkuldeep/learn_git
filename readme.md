@@ -1,6 +1,6 @@
-##Learn about git and github
+## Learn about git and github
 
-#These are the some command i used
+# These are the some command i used
 
 '''cmd
     git status
@@ -14,5 +14,5 @@
     git switch
     git remote
     git stash
-    
+
   '''
